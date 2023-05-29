@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0446eec15ae7e18c50f689f85b5a552cb806f84ee2c252a90994dfbb524dc6cd"
+    }
+  ],
+  "containerPath" : "/Users/patriknusszer/Desktop/raycast/raycast.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData/raycast/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData/raycast/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData/raycast/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData/raycast/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData/raycast/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData/raycast/Build/Products",
+      "pchPath" : "/Users/patriknusszer/Desktop/raycast/DerivedData/raycast/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

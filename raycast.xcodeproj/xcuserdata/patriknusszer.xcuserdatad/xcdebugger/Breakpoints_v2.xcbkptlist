@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "48A40FC7-2464-45A3-BA4E-A2E834EBA40F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCB17E59-82F3-4E96-8FD7-332A3BF17F3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "740"
+            endingLineNumber = "740"
+            landmarkName = "trace(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4C15618-FD7A-42B7-8E6D-3F58AF8787F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "649"
+            endingLineNumber = "649"
+            landmarkName = "build()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97D376A2-D79F-4C6D-9BB6-B612181268C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "setSurfaceNormal(origin)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D478CE1-D5FC-4DAE-B25E-E7710D218D75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "737"
+            endingLineNumber = "737"
+            landmarkName = "trace(ray)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D478CE1-D5FC-4DAE-B25E-E7710D218D75 - f871d7d453aed749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene::trace(Ray, int)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "727"
+                  endingLineNumber = "727"
+                  offsetFromSymbolStart = "1221">
+               </Location>
+               <Location
+                  uuid = "6D478CE1-D5FC-4DAE-B25E-E7710D218D75 - f871d7d453aed7d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene::trace(Ray, int)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "731"
+                  endingLineNumber = "731"
+                  offsetFromSymbolStart = "1221">
+               </Location>
+               <Location
+                  uuid = "6D478CE1-D5FC-4DAE-B25E-E7710D218D75 - f871d7d453aed0bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene::trace(Ray, int)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "740"
+                  endingLineNumber = "740"
+                  offsetFromSymbolStart = "1221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E63CC053-9FBB-4D08-AA6E-01749126ECB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "739"
+            endingLineNumber = "739"
+            landmarkName = "trace(ray)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E63CC053-9FBB-4D08-AA6E-01749126ECB0 - f871d7d453aed267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene::trace(Ray, int)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "749"
+                  endingLineNumber = "749"
+                  offsetFromSymbolStart = "2346">
+               </Location>
+               <Location
+                  uuid = "E63CC053-9FBB-4D08-AA6E-01749126ECB0 - f871d7d453aed267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene::trace(Ray, int)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "749"
+                  endingLineNumber = "749"
+                  offsetFromSymbolStart = "1704">
+               </Location>
+               <Location
+                  uuid = "E63CC053-9FBB-4D08-AA6E-01749126ECB0 - f871d7d453aed267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene::trace(Ray, int)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "749"
+                  endingLineNumber = "749"
+                  offsetFromSymbolStart = "1699">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F26F54DF-DC6C-444C-8A5F-FF5DDAB43913"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2D6FA89-E9EA-45D7-B832-A8E2D2924DA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "746"
+            endingLineNumber = "746"
+            landmarkName = "trace(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82D646B2-B9BD-48F9-9957-C6A1EFCE608F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "259"
+            endingLineNumber = "259"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81C11F25-1D86-4AB0-AEFF-0425E6262B83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3E2F8CC-6E16-42F7-B470-E29E5B8E2442"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E80CD05-DBC1-41BA-9E9F-B697C692B62A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E80CD05-DBC1-41BA-9E9F-B697C692B62A - b250aeb1318dc9e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConvexQuadrilateral::intersect(Ray const&amp;)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "2471">
+               </Location>
+               <Location
+                  uuid = "5E80CD05-DBC1-41BA-9E9F-B697C692B62A - b250aeb1318dc9e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConvexQuadrilateral::intersect(Ray const&amp;)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "2322">
+               </Location>
+               <Location
+                  uuid = "5E80CD05-DBC1-41BA-9E9F-B697C692B62A - b250aeb1318dc9e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConvexQuadrilateral::intersect(Ray const&amp;)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "2352">
+               </Location>
+               <Location
+                  uuid = "5E80CD05-DBC1-41BA-9E9F-B697C692B62A - b250aeb1318db677"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConvexQuadrilateral::intersect(Ray const&amp;)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "265"
+                  endingLineNumber = "265"
+                  offsetFromSymbolStart = "2320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94B55557-6E9C-45F1-8C6F-47ADC787B9E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94B55557-6E9C-45F1-8C6F-47ADC787B9E3 - b250aeb1318db77f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConvexQuadrilateral::intersect(Ray const&amp;)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "257"
+                  endingLineNumber = "257"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "94B55557-6E9C-45F1-8C6F-47ADC787B9E3 - b250aeb1318db7bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConvexQuadrilateral::intersect(Ray const&amp;)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "255"
+                  endingLineNumber = "255"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DF29EC4-1A59-40B6-8132-988ED4176B87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53688827-48EB-43F9-ADFF-17AF26AC800A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EABA6271-6A0A-45C5-8DC6-E6BF2B8280A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "intersect(ray)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2486757A-DDFA-449E-88F5-F662A673370A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "Tetrahedron(baseCenter, dir, normal)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2486757A-DDFA-449E-88F5-F662A673370A - 6e5bfcf11a499e4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tetrahedron::Tetrahedron(vec3, vec3, vec3)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "341"
+                  endingLineNumber = "341"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  uuid = "2486757A-DDFA-449E-88F5-F662A673370A - 6e5bfcf11a499e4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tetrahedron::Tetrahedron(vec3, vec3, vec3)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "341"
+                  endingLineNumber = "341"
+                  offsetFromSymbolStart = "3897">
+               </Location>
+               <Location
+                  uuid = "2486757A-DDFA-449E-88F5-F662A673370A - 6e5bfcf11a499e4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tetrahedron::Tetrahedron(vec3, vec3, vec3)"
+                  moduleName = "raycast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patriknusszer/Desktop/raycast/raycast/IQE1TQ.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "341"
+                  endingLineNumber = "341"
+                  offsetFromSymbolStart = "3926">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77DF71EF-D276-431C-AF1A-AA48891EA3CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "raycast/IQE1TQ.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "682"
+            endingLineNumber = "682"
+            landmarkName = "build()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

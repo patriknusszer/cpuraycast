@@ -5,6 +5,177 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1301D2CA-9426-4584-B79A-737D7261468A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1301D2CA-9426-4584-B79A-737D7261468A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>raycast project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>raycast</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build raycast</string>
+			<key>timeStartedRecording</key>
+			<real>707092598.422598</real>
+			<key>timeStoppedRecording</key>
+			<real>707092598.51278996</real>
+			<key>title</key>
+			<string>Build raycast</string>
+			<key>uniqueIdentifier</key>
+			<string>1301D2CA-9426-4584-B79A-737D7261468A</string>
+		</dict>
+		<key>4F400A34-9713-4751-8ACF-70BE2730EE08</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F400A34-9713-4751-8ACF-70BE2730EE08.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>raycast project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>raycast</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build raycast</string>
+			<key>timeStartedRecording</key>
+			<real>707092762.09587395</real>
+			<key>timeStoppedRecording</key>
+			<real>707092762.264902</real>
+			<key>title</key>
+			<string>Build raycast</string>
+			<key>uniqueIdentifier</key>
+			<string>4F400A34-9713-4751-8ACF-70BE2730EE08</string>
+		</dict>
+		<key>7EAA822E-1477-44AE-90B0-215ECC637F5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EAA822E-1477-44AE-90B0-215ECC637F5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>raycast project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>raycast</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build raycast</string>
+			<key>timeStartedRecording</key>
+			<real>707054428.97368705</real>
+			<key>timeStoppedRecording</key>
+			<real>707054429.05176497</real>
+			<key>title</key>
+			<string>Build raycast</string>
+			<key>uniqueIdentifier</key>
+			<string>7EAA822E-1477-44AE-90B0-215ECC637F5C</string>
+		</dict>
+		<key>8E2F97B6-EA0D-47FE-B40C-4A69AEFA92B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E2F97B6-EA0D-47FE-B40C-4A69AEFA92B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>raycast project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>raycast</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build raycast</string>
+			<key>timeStartedRecording</key>
+			<real>707093576.40733695</real>
+			<key>timeStoppedRecording</key>
+			<real>707093576.47885001</real>
+			<key>title</key>
+			<string>Build raycast</string>
+			<key>uniqueIdentifier</key>
+			<string>8E2F97B6-EA0D-47FE-B40C-4A69AEFA92B7</string>
+		</dict>
+		<key>D20B639E-F328-46C2-8FA0-0879B9B3DC32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D20B639E-F328-46C2-8FA0-0879B9B3DC32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>raycast project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>raycast</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build raycast</string>
+			<key>timeStartedRecording</key>
+			<real>707092311.59316897</real>
+			<key>timeStoppedRecording</key>
+			<real>707092311.73748195</real>
+			<key>title</key>
+			<string>Build raycast</string>
+			<key>uniqueIdentifier</key>
+			<string>D20B639E-F328-46C2-8FA0-0879B9B3DC32</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
